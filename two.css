@@ -1,7 +1,7 @@
 /*San-serif*/
-@import url(https://fonts.googleapis.com/css?family=Jura);
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
 /*Serif*/
-@import url(https://fonts.googleapis.com/css?family=BioRhyme+Expanded);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 *{
     padding: 0;
     margin: 0;
@@ -15,16 +15,16 @@ html{
 
 html,body{
     background-color: #d4d4d4;
-    font-family: 'Jura'','Arial, sans-serif;
+    font-family: 'Open Sans'','Arial, sans-serif;
 }
 h1{
 /*    font-family: serif;*/
-    font-family: 'BioRhyme Expanded', 'Times New Roman',serif;
+    font-family: 'Bree Serif', 'Times New Roman',serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'BioRhyme Expanded', 'Times New Roman',serif;
+    font-family: 'Bree Serif', 'Times New Roman',serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
