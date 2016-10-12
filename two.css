@@ -15,16 +15,16 @@ html{
 
 html,body{
     background-color: #d4d4d4;
-    font-family: 'Open Sans'','Arial, sans-serif;
+    font-family: "Open Sans","Arial", sans-serif;
 }
 h1{
 /*    font-family: serif;*/
-    font-family: 'Bree Serif', 'Times New Roman',serif;
+    font-family: "Bree Serif", "Georgia",serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'Bree Serif', 'Times New Roman',serif;
+    font-family: "Bree Serif,"Georgia",serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
@@ -65,7 +65,7 @@ main p:last-child{
 header{
     width:100%;
     border-bottom: 1rem solid black;
-    font-family: 'BioRhyme Expanded', 'Times New Roman',serif;
+    font-family: "Bree Serif", 'Times New Roman',serif;
 }
 nav{
     float:left;
